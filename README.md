@@ -21,7 +21,7 @@ This project was developed TerraComp Ltd. It allows them to identify active stoc
 * **Requests** was the Python library used to retrieve information from the Indeed page
 * **Pandas** library was used for storing and manipulating the table data retrieved
 
-![Dataframe showing sort by volume](image1.png)
+![Dataframe showing sort by volume](dataframe.png)
 
 ### [Visualizing Active Stocks](https://colab.research.google.com/drive/1ZcXyZ4R63uyqHsfbnE8VCtlHS9nPji92)
 This project is a follow up to the project on determining viable stocks. It gives a visual picture of all the active and viable stocks in the market.
