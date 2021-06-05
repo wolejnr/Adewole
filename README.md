@@ -30,4 +30,4 @@ It helps the Board of TerraComp Ltd. to decide where to invest.
 * **Requests** was the Python library used to retrieve information from the Indeed page
 * **Pandas** library was used for storing and manipulating the table data retrieved
 
-![Dataframe showing sort by volume](image1.png)
+![Dataframe showing sort by volume](heatmap.png)
